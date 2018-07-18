@@ -12,11 +12,11 @@ namespace PictureDisplay
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-       
+
             //btnSubmit.Click += new EventHandler(ImageBtn_Click);
 
-                ImageBtn_Click(sender, e);
-            
+            ImageBtn_Click(sender, e);
+
 
         }
 
@@ -56,9 +56,8 @@ namespace PictureDisplay
 
         }
 
-  
 
+    }
 
 
     }
-}
