@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h3>Click the button to change Photo</h3>
-    <asp:Button ID="btnSubmit" runat="server" Text="Display Image" />
+    <asp:Button ID="btnSubmit" runat="server" Text="Change Image" />
     <asp:Image ID="image2" runat="server" value ="0"/>
     <asp:HiddenField ID="HiddenField1" runat="server" Value="0" />
 
