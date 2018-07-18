@@ -26,7 +26,7 @@ namespace PictureDisplay
         public void ImageBtn_Click(Object sender, EventArgs e)
         {
 
-            btnSubmit.Text = "filename";
+            //btnSubmit.Text = "filename";
             count = Convert.ToInt16(HiddenField1.Value);
 
 
